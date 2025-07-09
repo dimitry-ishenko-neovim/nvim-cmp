@@ -1,8 +1,24 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://github.com/hrsh7th/nvim-cmp
-Upstream-Name: nvim-cmp
+Upstream-Name: nvim-cmp + cmp-buffer, cmp-cmdline, cmp-nvim-lsp, cmp-path, cmp-snippy
 
 Files: *
+Copyright: 2021, hrsh7th
+License: Expat
+
+Files: buffer/*
+Copyright: 2021, hrsh7th
+License: Expat
+
+Files: cmdline/*
+Copyright: 2023, hrsh7th
+License: Expat
+
+Files: lsp/*
+Copyright: 2021, hrsh7th
+License: Expat
+
+Files: path/*
 Copyright: 2021, hrsh7th
 License: Expat
 

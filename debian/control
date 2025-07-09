@@ -16,15 +16,12 @@ Architecture: all
 Depends:
  ${misc:Depends},
  ${vim-addon:Depends},
- cmp-buffer,
- cmp-cmdline,
- cmp-nvim-lsp,
- cmp-path,
- cmp-snippy,
+ neovim,
  nvim-snippy,
 Description: A completion plugin for neovim coded in Lua
- Concept:
-   * Full support for LSP completion related capabilities
-   * Powerful customizability via Lua functions
-   * Smart handling of key mappings
-   * No flicker
+ This package also includes several sources:
+   * cmp-buffer   - source for buffer words
+   * cmp-cmdline  - source for vim's cmdline
+   * nvim-cmp-lsp - source for neovim LSP client
+   * cmp-path     - source for path
+   * cmp-snippy   - source for nvim-snippy
