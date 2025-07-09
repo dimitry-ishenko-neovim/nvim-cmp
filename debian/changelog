@@ -1,5 +1,38 @@
-nvim-cmp (0.0.2-11-gb531-1) UNRELEASED; urgency=medium
+nvim-cmp (0.0.2-11-gb531-1) unstable; urgency=medium
 
-  * Initial release.
+  [ Dimitry Ishenko ]
+  * Install cmp.lua
+  * d/control: add missing dep
+  * Add Debian packaging
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 08 Jul 2025 22:47:50 -0400
+  [ Marcin M ]
+  * fix missing required fields in formatting config (#2040)
+
+  [ wsdjeg ]
+  * Format with stylua
+
+  [ emmanueltouzery ]
+  * fix: handle winborder in neovim-0.11 (#2150)
+
+  [ hrsh7th ]
+  * fix: ref-fix backward compatibility
+  * improve backward compatibility
+  * don't use deprecated functions
+
+  [ ColdSpirit0 ]
+  * Preserve 'buflisted' state when applying LSP text edits (#2141)
+
+  [ Niza Toshpulatov ]
+  * Fix typos (#2135)
+
+  [ wsdjeg ]
+  * Format with stylua
+
+  [ IguanaCucumber ]
+  * fix(utils): Only call callback if type(callback) == "function"
+    (#2038)
+
+  [ abeldekat ]
+  * fix: Outdated completion item with mini.snippets (#2126)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 09 Jul 2025 01:16:51 -0400
