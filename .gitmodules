@@ -4,3 +4,6 @@
 [submodule "cmdline"]
 	path = cmdline
 	url = https://github.com/dimitry-ishenko-neovim/cmp-cmdline.git
+[submodule "lsp"]
+	path = lsp
+	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-lsp.git
