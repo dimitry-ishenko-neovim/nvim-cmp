@@ -7,3 +7,6 @@
 [submodule "lsp"]
 	path = lsp
 	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-lsp.git
+[submodule "path"]
+	path = path
+	url = https://github.com/dimitry-ishenko-neovim/cmp-path.git
