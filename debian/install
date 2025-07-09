@@ -1,1 +1,2 @@
 autoload doc lua plugin usr/share/nvim-cmp
+debian/cmp.lua etc/skel/.config/nvim/plugin
