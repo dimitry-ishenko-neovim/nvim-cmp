@@ -15,6 +15,7 @@ Package: nvim-cmp
 Architecture: all
 Depends:
  ${misc:Depends},
+ ${vim-addon:Depends},
  cmp-buffer,
  cmp-cmdline,
  cmp-nvim-lsp,
