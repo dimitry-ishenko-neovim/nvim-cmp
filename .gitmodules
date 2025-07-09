@@ -1,3 +1,6 @@
 [submodule "buffer"]
 	path = buffer
 	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-buffer.git
+[submodule "cmdline"]
+	path = cmdline
+	url = https://github.com/dimitry-ishenko-neovim/cmp-cmdline.git
