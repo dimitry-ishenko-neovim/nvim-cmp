@@ -1,0 +1,1 @@
+autoload doc lua plugin usr/share/nvim-cmp

@@ -1,0 +1,29 @@
+Source: nvim-cmp
+Section: editors
+Priority: optional
+Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+ dh-vim-addon,
+Standards-Version: 4.6.2
+Homepage: https://github.com/hrsh7th/nvim-cmp
+Vcs-Browser: https://github.com/dimitry-ishenko-neovim/nvim-cmp
+Vcs-Git: https://github.com/dimitry-ishenko-neovim/nvim-cmp.git
+
+Package: nvim-cmp
+Architecture: all
+Depends:
+ ${misc:Depends},
+ cmp-buffer,
+ cmp-cmdline,
+ cmp-nvim-lsp,
+ cmp-path,
+ cmp-snippy,
+ nvim-snippy,
+Description: A completion plugin for neovim coded in Lua
+ Concept:
+   * Full support for LSP completion related capabilities
+   * Powerful customizability via Lua functions
+   * Smart handling of key mappings
+   * No flicker
