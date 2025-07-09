@@ -10,3 +10,6 @@
 [submodule "path"]
 	path = path
 	url = https://github.com/dimitry-ishenko-neovim/cmp-path.git
+[submodule "snippy"]
+	path = snippy
+	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-snippy.git
