@@ -13,3 +13,6 @@
 [submodule "snippy"]
 	path = snippy
 	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-snippy.git
+[submodule "copilot"]
+	path = copilot
+	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-copilot.git
