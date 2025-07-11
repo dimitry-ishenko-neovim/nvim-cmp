@@ -1,0 +1,4 @@
+--- /dev/null
++++ nvim-cmp-0.0.2-11-gb531/copilot/after/plugin/copilot_cmp.lua
+@@ -0,0 +1 @@
++require("copilot_cmp").setup()

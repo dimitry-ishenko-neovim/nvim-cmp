@@ -2,6 +2,7 @@ autoload doc lua plugin usr/share/nvim-cmp
 
 buffer/after buffer/lua usr/share/nvim-cmp
 cmdline/after cmdline/lua usr/share/nvim-cmp
+copilot/after copilot/lua /usr/share/nvim-cmp
 lsp/after lsp/doc lsp/lua usr/share/nvim-cmp
 path/after path/lua usr/share/nvim-cmp
 snippy/after snippy/lua usr/share/nvim-cmp

@@ -11,6 +11,8 @@ Upstream-Name: nvim-cmp
 # Upstream-Name: cmp-path
 # Source: https://github.com/dcampos/cmp-snippy.git
 # Upstream-Name: cmp-snippy
+# Source: https://github.com/zbirenbaum/copilot-cmp.git
+# Upstream-Name: copilot-cmp
 
 Files: *
 Copyright: 2021, hrsh7th
@@ -18,6 +20,10 @@ License: Expat
 
 Files: buffer/*
 Copyright: 2021, hrsh7th
+License: Expat
+
+Files: copilot/*
+Copyright: 2022, Zach Birenbaum
 License: Expat
 
 Files: cmdline/*

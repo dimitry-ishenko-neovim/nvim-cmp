@@ -48,7 +48,7 @@ cmp.setup({
     }),
 
     sources = cmp.config.sources(
-        {{name = "nvim_lsp"}, {name = "snippy"}},
+        {{name = "copilot"}, {name = "nvim_lsp"}, {name = "snippy"}},
         {{name = "buffer"}}
     )
 })
