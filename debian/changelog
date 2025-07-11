@@ -1,3 +1,11 @@
+nvim-cmp (0.0.2-11-gb531-3) unstable; urgency=medium
+
+  * Add copilot_cmp as source
+  * d/copyright: fix format
+  * Add nvim-cmp-copilot as a submodule
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 10 Jul 2025 22:54:13 -0400
+
 nvim-cmp (0.0.2-11-gb531-2) unstable; urgency=medium
 
   * Integrate common sources
