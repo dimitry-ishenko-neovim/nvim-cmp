@@ -1,6 +1,16 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: https://github.com/hrsh7th/nvim-cmp
-Upstream-Name: nvim-cmp + cmp-buffer, cmp-cmdline, cmp-nvim-lsp, cmp-path, cmp-snippy
+Upstream-Name: nvim-cmp
+# Source: https://github.com/hrsh7th/cmp-buffer.git
+# Upstream-Name: cmp-buffer
+# Source: https://github.com/hrsh7th/cmp-cmdline.git
+# Upstream-Name: cmp-cmdline
+# Source: https://github.com/hrsh7th/cmp-nvim-lsp.git
+# Upstream-Name: cmp-nvim-lsp
+# Source: https://github.com/hrsh7th/cmp-path.git
+# Upstream-Name: cmp-path
+# Source: https://github.com/dcampos/cmp-snippy.git
+# Upstream-Name: cmp-snippy
 
 Files: *
 Copyright: 2021, hrsh7th
