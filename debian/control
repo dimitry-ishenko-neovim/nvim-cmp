@@ -18,6 +18,8 @@ Depends:
  ${vim-addon:Depends},
  neovim,
  nvim-snippy,
+Recommends:
+ copilot-nvim,
 Description: A completion plugin for neovim coded in Lua
  This package also includes several sources:
    * cmp-buffer   - source for buffer words
