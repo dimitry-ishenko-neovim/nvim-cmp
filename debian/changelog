@@ -1,3 +1,9 @@
+nvim-cmp (0.0.2-11-gb531-6) unstable; urgency=medium
+
+  * cmp.lua: fix order
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sat, 12 Jul 2025 15:57:52 -0400
+
 nvim-cmp (0.0.2-11-gb531-5) unstable; urgency=medium
 
   * Add nvim_lsp_signature_help as source
