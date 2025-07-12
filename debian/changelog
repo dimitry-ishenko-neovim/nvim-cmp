@@ -1,3 +1,10 @@
+nvim-cmp (0.0.2-11-gb531-5) unstable; urgency=medium
+
+  * Add nvim_lsp_signature_help as source
+  * Add nvim-cmp-lsh as a submodule
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 11 Jul 2025 23:25:19 -0400
+
 nvim-cmp (0.0.2-11-gb531-4) unstable; urgency=medium
 
   * d/control: mention copilot-cmp
