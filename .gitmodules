@@ -16,3 +16,6 @@
 [submodule "copilot"]
 	path = copilot
 	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-copilot.git
+[submodule "lsh"]
+	path = lsh
+	url = https://github.com/dimitry-ishenko-neovim/nvim-cmp-lsh.git
