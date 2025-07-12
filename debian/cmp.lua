@@ -49,6 +49,7 @@ cmp.setup({
 
     sources = cmp.config.sources(
         {{name = "copilot"}, {name = "nvim_lsp"}, {name = "snippy"}},
+        {{name = "nvim_lsp_signature_help"}},
         {{name = "buffer"}}
     )
 })

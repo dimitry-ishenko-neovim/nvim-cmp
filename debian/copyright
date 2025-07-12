@@ -13,6 +13,8 @@ Upstream-Name: nvim-cmp
 # Upstream-Name: cmp-snippy
 # Source: https://github.com/zbirenbaum/copilot-cmp.git
 # Upstream-Name: copilot-cmp
+# Source: https://github.com/hrsh7th/cmp-nvim-lsp-signature-help.git
+# Upstream-Name: cmp-nvim-lsp-signature-help
 
 Files: *
 Copyright: 2021, hrsh7th

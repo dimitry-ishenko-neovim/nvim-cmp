@@ -28,3 +28,4 @@ Description: A completion plugin for neovim coded in Lua
    * cmp-path     - source for path
    * cmp-snippy   - source for nvim-snippy
    * copilot-cmp  - source for GitHub Copilot
+   * cmp-nvim-lsp-signature-help
