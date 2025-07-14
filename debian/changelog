@@ -1,3 +1,9 @@
+nvim-cmp (0.0.2-11-gb531-7) unstable; urgency=medium
+
+  * cmp.lua: add path as source
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sun, 13 Jul 2025 21:36:38 -0400
+
 nvim-cmp (0.0.2-11-gb531-6) unstable; urgency=medium
 
   * cmp.lua: fix order
