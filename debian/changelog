@@ -1,3 +1,9 @@
+nvim-cmp (0.0.2-11-gb531-8) unstable; urgency=medium
+
+  * cmp.lua: remove trailing comma
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 14 Jul 2025 11:08:30 -0400
+
 nvim-cmp (0.0.2-11-gb531-7) unstable; urgency=medium
 
   * cmp.lua: add path as source
