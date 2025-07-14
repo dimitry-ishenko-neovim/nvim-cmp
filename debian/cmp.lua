@@ -50,7 +50,8 @@ cmp.setup({
     sources = cmp.config.sources(
         {{name = "nvim_lsp_signature_help"}},
         {{name = "copilot"}, {name = "nvim_lsp"}, {name = "snippy"}},
-        {{name = "buffer"}}
+        {{name = "buffer"}},
+        {{name = "path"}},
     )
 })
 
@@ -63,7 +64,7 @@ cmp.setup.cmdline(":", {
     mapping = cmp.mapping.preset.cmdline(),
     sources = cmp.config.sources(
         {{name = "path"}},
-        {{name = "cmdline"}}
+        {{name = "cmdline"}},
     ),
     matching = {disallow_symbol_nonprefix_matching = false}
 })
